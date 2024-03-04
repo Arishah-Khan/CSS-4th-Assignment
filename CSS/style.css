@@ -679,3 +679,11 @@ hr {
     opacity: 1;
     border-radius: 5px;
 }
+.card2{
+    position: relative;
+    top: 30px;
+}
+.card3{
+    position: relative;
+    top: 60px;
+}
